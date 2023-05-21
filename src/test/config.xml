@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <LOGIN>
+        <USERNAME>s0583265044@gmail.com</USERNAME>
+        <PASSWORD>Zz!23456</PASSWORD>
+    </LOGIN>
+    <PRODUCT>
+        <PRODUCTNAME>מארז של 3 מכנסיים קצרים מבד ג'רזי לתינוקות</PRODUCTNAME>
+        <COLOR>בצבע בז'/ירוק מרווה</COLOR>
+        <SIZE>First Size (UK ) (EU 50cm) - 50 ₪</SIZE>
+    </PRODUCT>
+    <PAYMENT>
+        <CARDNUMBER>1111111111111111</CARDNUMBER>
+        <NAME>שרה לב</NAME>
+        <YEAR>26</YEAR>
+        <MOUNTH>12</MOUNTH>
+        <CODE>1234</CODE>
+    </PAYMENT>
+</config>
